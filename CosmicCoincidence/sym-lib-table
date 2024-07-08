@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SJ-43515RS-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/SJ-43515RS-SMT-TR/SJ-43515RS-SMT-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "SN74LVCC3245ADBR")(type "KiCad")(uri "${KIPRJMOD}/SN74LVCC3245ADBR/2024-06-29_03-52-05.kicad_sym")(options "")(descr ""))
+  (lib (name "RPi_Pico")(type "KiCad")(uri "${KIPRJMOD}/RPicoW/RPi_Pico.kicad_sym")(options "")(descr ""))
+)
