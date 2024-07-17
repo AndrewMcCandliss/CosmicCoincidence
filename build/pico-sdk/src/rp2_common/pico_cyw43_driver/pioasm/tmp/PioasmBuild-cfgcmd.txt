@@ -1,0 +1,1 @@
+cmd='/Users/arm8483/.pico-sdk/cmake/v3.28.0-rc6/CMake.app/Contents/bin/cmake;-DCMAKE_MAKE_PROGRAM:FILEPATH=/Users/arm8483/.pico-sdk/ninja/v1.12.1/ninja;-GNinja;-C<TMP_DIR>/PioasmBuild-cache-$<CONFIG>.cmake;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'
