@@ -1,4 +1,4 @@
-// Padded and checksummed version of: /Users/arm8483/cosmicCoincidence/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
+// Padded and checksummed version of: /Users/arm8483/CosmicCoincidence/build/pico-sdk/src/rp2_common/boot_stage2/bs2_default.bin
 
 .cpu cortex-m0plus
 .thumb

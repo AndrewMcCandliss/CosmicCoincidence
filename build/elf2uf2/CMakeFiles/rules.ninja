@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /Users/arm8483/.pico-sdk/cmake/v3.28.0-rc6/CMake.app/Contents/bin/cmake --regenerate-during-build -S/Users/arm8483/.pico-sdk/sdk/1.5.1/tools/elf2uf2 -B/Users/arm8483/cosmicCoincidence/build/elf2uf2
+  command = /Users/arm8483/.pico-sdk/cmake/v3.28.0-rc6/CMake.app/Contents/bin/cmake --regenerate-during-build -S/Users/arm8483/.pico-sdk/sdk/1.5.1/tools/elf2uf2 -B/Users/arm8483/CosmicCoincidence/build/elf2uf2
   description = Re-running CMake...
   generator = 1
 
