@@ -37,9 +37,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 2.0,
+          "width": 1.45
         },
         "silk_line_width": 0.1,
         "silk_text_italic": false,
@@ -463,7 +463,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.254,
         "via_diameter": 0.6,
-        "via_drill": 0.3,
+        "via_drill": 0.4,
         "wire_width": 6
       },
       {
@@ -480,7 +480,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.381,
         "via_diameter": 0.6,
-        "via_drill": 0.381,
+        "via_drill": 0.4,
         "wire_width": 6
       }
     ],
@@ -606,6 +606,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
@@ -621,6 +629,10 @@
     [
       "a0038771-ac45-43d1-ab31-089794fc8159",
       "Root"
+    ],
+    [
+      "208f7ae7-91f2-4bd0-a9b2-a8547e5ac81e",
+      "spice tests"
     ]
   ],
   "text_variables": {}
